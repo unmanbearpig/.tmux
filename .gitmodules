@@ -1,0 +1,9 @@
+[submodule "plugins/tmux-open"]
+	path = plugins/tmux-open
+	url = https://git::@github.com/tmux-plugins/tmux-open
+[submodule "plugins/tmux-yank"]
+	path = plugins/tmux-yank
+	url = https://git::@github.com/tmux-plugins/tmux-yank
+[submodule "plugins/tmux-copycat"]
+	path = plugins/tmux-copycat
+	url = https://git::@github.com/tmux-plugins/tmux-copycat
